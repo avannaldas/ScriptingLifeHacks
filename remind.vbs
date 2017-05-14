@@ -15,4 +15,4 @@ If Not IsNull(objArgs) then
 	end if
 end if
 WScript.Sleep delay
-MsgBox msg
+MsgBox msg, 64, "Reminder"
