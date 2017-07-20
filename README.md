@@ -5,4 +5,4 @@ Tiny scripts for life hacks -- Saving few seconds and knocking out an inconvenie
 
 2. **[keep-awake.bat] Script to prevent computer from sleeping:** This script doesn't let a computer sleep due to inactivity. This is useful when the changing power policy is disabled by administrator.
 
-3. **[beep-every-min.bat] Script to prevent bluetooth headset getting disconnected due to audio inactivity:** This script beeps with default windows alert sound every one minute using **python**. This prevents my bluetooth headset from disconnecting (going into power saving mode) due to lack of audio output for few minutes.
+3. **[beep-every-min.bat] Script to prevent bluetooth headset getting disconnected due to audio inactivity:** This script beeps with default windows alert sound every one minute using **python**. This prevents the bluetooth headset from disconnecting due to audio inactivity for a long time.
