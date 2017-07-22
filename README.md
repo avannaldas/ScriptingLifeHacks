@@ -1,4 +1,4 @@
-# Random Tiny Things
+# Scripting Life Hacks for a geek
 Tiny scripts for life hacks -- Saving few seconds and knocking out an inconvenience, one script at a time!
 
 1. **[remind.vbs] Remind Script:** This is a vb script which can be invoked with message and timeout, it'll show a message box with given message after given time interval.
